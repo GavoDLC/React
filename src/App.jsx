@@ -12,8 +12,8 @@ function App() {
     <h1>Hola React</h1>
     <div className="container">
       {vehicleList}
-      <ShowHide/>
     </div>
+      <ShowHide/>
   </div>;
 }
 
